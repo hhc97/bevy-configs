@@ -23,6 +23,6 @@ jobs:
           aws configure set default.region auto
       - name: Sync static assets to R2
         run: |
-          aws s3 sync ./configs s3://bevy-configs/configs \
+          aws s3 sync ./configs s3://bevy-configs/general-processor \
             --delete \
             --endpoint-url ${{ secrets.R2_ENDPOINT }}
