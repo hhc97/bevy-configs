@@ -7,3 +7,6 @@ arifmuhammad.faisal@bevycommerce.com
 farhan.akif@bevycommerce.com
 labib.bin@bevycommerce.com
 development@bevycommerce.com
+israt.jahan@bevycommerce.com
+farhanul.haque@bevycommerce.com
+development+github-automate@bevycommerce.com
